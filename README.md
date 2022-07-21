@@ -41,5 +41,7 @@ If You Don't Have HaxeFlixel Or The Required Package's Installed, Do The Followi
 - `haxelib git "https://github.com/Aidan63/linc_discord-rpc"`
 
 Now You Have HaxeFlixel And The Required Packages:
-- In The Repository, Run The Bat File `compile-[PlatformName].bat`. I'll Get To Mac, Linux, HTML & Android (And Maybe Even Newground's) At Some Point.
+- In The Repository, Run The Bat File For A Windows Build `compile-windows.bat`.
+- For A Mac Build Run `compile-mac.sh`
+- I'll Get To Linux, HTML & Android (And Maybe Even Newground's) At Some Point.
 # Thank's, And Enjoy!
